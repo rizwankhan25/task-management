@@ -31,3 +31,12 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
 * I have MongoDB data base 
+
+I have created backend folder and run these all command 
+
+npm init -y 
+
+npm install express mongoose cors dotenv
+
+I have Installed nodemon for starting backend server therefore you can start server from this command 
+npx nodemon 
